@@ -45,7 +45,7 @@
 
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium">
-Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Apps and Web Applications because I want to continue growing and honing my skills 😄.
+Hey there! 👋 I'm a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Apps and Web Applications because I want to continue growing and honing my skills 😄.
   <br>- 📚 I'm currently focused on learning and exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), including neural networks and other related topics.
   <br>- 🤝 I'm always excited to collaborate with others and contribute to different projects. If you have a project that needs an extra set of hands or fresh ideas, feel free to reach out to me!
   <br>- 🔧 I have experience working with various programming languages and technologies, ensuring that I can adapt and contribute effectively to your project's tech stack.
@@ -122,7 +122,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <h2> ⭐ My Open-Source Badges </h2><br>
 <br>
   
-[![An image of @muhammadfiaz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadfiaz)](https://holopin.io/@muhammadfiaz)
+[![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadfiaz)](https://holopin.io/@muhammadfiaz)
 
   
 </div> 
@@ -301,7 +301,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
 <br>
 
-[![Muhammad Fiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadfiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/)
+[![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadfiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/)
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
