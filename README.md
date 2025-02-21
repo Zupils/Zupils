@@ -212,12 +212,6 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
 </div> 
 
-<div align="center">
-
-[![Muhammad Fiaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-fiaz&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/muhammad-fiaz/)
-
-</div>
-
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
